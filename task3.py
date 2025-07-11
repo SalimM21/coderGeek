@@ -6,3 +6,5 @@ def show_stats(df: pd.DataFrame):
     print("\n" + "="*50 + "\n")
     print("Informations générales sur le DataFrame :")
     df.info()
+
+    print('omar and hamid')
